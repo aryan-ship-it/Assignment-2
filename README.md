@@ -1,4 +1,4 @@
-# CSCE306spring2023
+# Representation of Inheritance
 
 The following code is an implementation of inheritance in Object Oriented Programming. 
 
